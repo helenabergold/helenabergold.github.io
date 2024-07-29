@@ -31,5 +31,12 @@ a:active {
 }
 
 li:not(:last-child) {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
+
+p 
+{
+  margin-top: 1ex; 
+  margin-bottom: 0ex;
+}
+
